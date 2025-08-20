@@ -1,0 +1,16 @@
+[
+  {
+    "itemId": "ITEM123",
+    "description": "Refrigerator",
+    "components": [
+      {
+        "componentId": "STEEL_A",
+        "costShare": 0.3
+      },
+      {
+        "componentId": "ALUMINUM_B",
+        "costShare": 0.7
+      }
+    ]
+  }
+]
